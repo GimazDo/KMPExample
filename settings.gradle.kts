@@ -29,3 +29,4 @@ dependencyResolutionManagement {
 }
 
 include(":examples:rich-text-editor:composeApp")
+include(":examples:web-view:composeApp")
